@@ -1,0 +1,23 @@
+{
+    "music.game": {
+		"sounds": [
+			{
+				"name": "music/game/calm1",
+				"stream": true
+			}
+        ]
+    },
+    "music.menu": {
+        "sounds": [
+            {
+                "name": "music/game/infinite_amethyst",
+                "stream": true
+              }
+        ]
+    },
+    "ui.button.click": {
+        "sounds": [
+            "random/click_stereo"
+        ]
+    }
+}
