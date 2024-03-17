@@ -1,4 +1,4 @@
-# Mintcraft (for 1.20+)
+# Mintcraft (for 1.20 - 1.20.1)
 A dark-themed and modern Minecraft resource pack.
 
 ## Credits
